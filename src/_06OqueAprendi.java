@@ -1,5 +1,6 @@
 public class _06OqueAprendi {
     public static void main(String[] args) {
+        System.out.println(" SantanderCoders - Java - Professor: Jessé Haniel (Especialista");
         System.out.println("1- Aprendi a dar um Olá, Mundo no Java.");
         System.out.println("2- Aprendi a declarar e atribuir valores a variáveis.");
         System.out.println("3- Aprendi sobre os tipos primitivos do Java, que são 8: byte, short, int, long, float, double, boolean e char.");
