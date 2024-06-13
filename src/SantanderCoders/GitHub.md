@@ -7,3 +7,7 @@ ou Command + F12 no macOS).
 git status
 
 git add .
+
+git commit -m "Descrição das alterações feitas"
+
+git push

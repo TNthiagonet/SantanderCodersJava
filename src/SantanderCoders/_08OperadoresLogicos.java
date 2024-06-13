@@ -1,3 +1,4 @@
+package SantanderCoders;
 public class _08OperadoresLogicos {
     public static void main(String[] args) {
         // Algoritimo para ir a praia

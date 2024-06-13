@@ -1,3 +1,4 @@
+package SantanderCoders;
 public class _12EstruturasCondicionais {
     public static void main(String[] args) {
 

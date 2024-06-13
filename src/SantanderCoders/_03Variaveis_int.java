@@ -1,3 +1,4 @@
+package SantanderCoders;
 public class _03Variaveis_int {
     public static void main(String[] args) {
 // Usamos a variavel do tipo: int

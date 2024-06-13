@@ -1,3 +1,4 @@
+package SantanderCoders;
 public class _04Variaveis_float {
     public static void main(String[] args) {
 // Usamos a variavel do tipo: float

@@ -1,3 +1,4 @@
+package SantanderCoders;
 public class _06OqueAprendi {
     public static void main(String[] args) {
         System.out.println(" SantanderCoders - Java - Professor: Jessé Haniel (Especialista");

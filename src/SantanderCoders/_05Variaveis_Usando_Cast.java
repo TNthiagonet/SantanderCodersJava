@@ -1,3 +1,4 @@
+package SantanderCoders;
 public class _05Variaveis_Usando_Cast {
     public static void main(String[] args) {
 // Utilizando cast() para obter resultados float
