@@ -1,6 +1,6 @@
 package SantanderCoders;
 
-public class _25ProgamacoaOrientadaAObjetosBasicoEmJava {
+public class _25POO {
     public static void main(String[] args){
         System.out.println("");
         System.out.println("INTRODUÇÃO");
