@@ -1,7 +1,7 @@
 package SantanderCoders;
 
-import java.time.LocalDateTime;
 import java.time.LocalDate;
+import java.time.LocalDateTime;
 import java.time.format.TextStyle;
 import java.util.Locale;
 
@@ -18,7 +18,7 @@ public class _14ManipulacaoDeStringsEDatas {
         // tipo | var  | Data Local
         LocalDate hoje = LocalDate.now();
         // Linguagem e localidade
-        Locale brasil = new Locale("pt", "BR");
+        Locale brasil = new Locale.Builder().setLanguage("pt").setRegion("BR").build();
         System.out.println(hoje);
         //--------------------- Dia da semana
         System.out.println(hoje.getDayOfWeek());
